@@ -1,1 +1,1 @@
-## This repo contain some of the trial runs on trending llms.
+## This repo contains some of the trial runs on trending llms.
